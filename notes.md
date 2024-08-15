@@ -11,3 +11,5 @@ It is _very_ confusing, but luckily the repo for the class explains everything t
 ## Amazon Web Services - Route 53
 https://github.com/webprogramming260/.github/blob/main/profile/webServers/amazonWebServicesRoute53/amazonWebServicesRoute53.md
 
+## HTTPS, TLS, and web certificates
+https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md
