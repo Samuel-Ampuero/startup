@@ -129,3 +129,8 @@ HTML uses several reserved characters for defining its file format. If you want 
 | '         | `&apos;`    |
 | &#128512; | `&#128512;` |
 
+## HTML Structure
+
+Repo: https://github.com/webprogramming260/.github/blob/main/profile/html/structure/structure.md
+
+Assignment: https://codepen.io/Cyb3rDr4g0n/pen/vYqdvao
