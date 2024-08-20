@@ -237,5 +237,5 @@ The following shows what the inputs look like when rendered. Don't worry about h
 
 https://codepen.io/Cyb3rDr4g0n/pen/RwzQvpR
 
-- **NOT READY TO TURN IN!!!** 
+- <span style="color:red">**NOT READY TO TURN IN!!!** </span>
 - **DEFAULT COLOR IS NOT TURNING RED**
