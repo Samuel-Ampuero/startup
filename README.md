@@ -16,7 +16,6 @@ Tired of the hassle of texting on your phone when you’re at work or in a meeti
 
 - Secure login over HTTPS
 - Ability to chat with other users
-- Ability to have a profile picture
 - Ability to use emojis
 - Ability to see past messages
 - Ability to have multiple conersations
