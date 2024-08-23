@@ -26,14 +26,16 @@
       </header>
 
     <main>
-      <div>
+      <div div style="display: flex; flex-direction: row;">
+        
+        <!--Div for the message column-->
         <div>
           <h1>Messages</h1>
           <button>New Message</button>
           <br/>
           <br/>
-          <table>
-            <tr>
+          <table style="border-collapse: collapse;">
+            <tr style="background-color: rgb(207, 207, 207);">
               <td>
                 <div style="display: flex; flex-direction: row;">
                   <img src="./icons/man_green.png" width="60px"/>
@@ -83,8 +85,23 @@
             </tr>
           </table>
         </div>
-        <div>
 
+        <!--Div for the chat window-->
+        <div>
+          <!--Div for the header with contact-->
+          <div style="display: flex; flex-direction: row;">
+            <img src="./icons/man_green.png" width="75px" height="75px"/>
+            <h1>Dad</h1>
+            <button>Info</button>
+          </div>
+          <!--Div for the chat (placeholder)-->
+          <div>
+            <img src="./icons/man_green.png" width="75px" height="75px"/>
+          </div>
+          <!--Div for the text bar-->
+          <div>
+
+          </div>
         </div>
       </div>
     </main>
