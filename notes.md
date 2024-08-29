@@ -751,3 +751,50 @@ Animation is not just for pushing buttons or making text float around. Here is a
 ![Watch animation](./images/cssAnimationWatch.gif)
 
 CodePen has a lot of CSS animation examples that you can experiment with. Here is a simple one with [floating clouds](https://codepen.io/leesjensen/pen/wvXEaRq) that I found interesting. If you find an interesting one share it with us on Discord.
+
+## CSS: Practice
+
+New things learned:
+
+```css
+section {
+  background-color: #777;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+
+  animation-name: fly-in;
+  animation-duration: 1.5s;
+}
+
+@keyframes fly-in {
+  from {
+    transform: translateX(-200%); /*how to make something slide in from the right*/
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+
+
+h2{
+  font-weight: normal;  /*The font-weight property sets how thick or thin characters in text should be displayed.*/
+}
+
+li {
+  list-style: square;  /*self-explanitory*/
+}
+
+footer {
+  text-align: right; 
+  font-style: italic; /*how to have text italic*/
+  font-size: 23px;
+  padding: 10px;
+}
+```
+
+### Assignment
+
+https://codepen.io/Cyb3rDr4g0n/pen/ExBpBVe
+
